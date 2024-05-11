@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mmc.h": "c",
+        "types.h": "c",
+        "errno.h": "c",
+        "s3c2410.h": "c",
+        "s3c24x0.h": "c",
+        "part.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

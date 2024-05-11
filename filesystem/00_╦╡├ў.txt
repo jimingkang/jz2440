@@ -1,0 +1,5 @@
+Development_util_ok									解压后的做好的yaffs源码
+yaffs_source.tar.gz									未经修改的yaffs源码
+yaffs_source_util_larger_small_page_nand.tar.bz2	已经做好的yaffs源码压缩包，支持jz2440
+yaffs_util_mkyaffsimage.patch						yaffs源码包补丁，支持JZ2440
+
